@@ -48,6 +48,9 @@ nav .nav-part1 a h4 {
   font-family: light;
 }
 
+/* echo "added new feature test" >> home.css */
+
+
 .main {
   width: 100%;
   display: flex;
